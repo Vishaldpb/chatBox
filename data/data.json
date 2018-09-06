@@ -1,0 +1,26 @@
+
+{
+    "friends" : [
+        { 
+            "title" : "School Friend",
+            "name" : "Abhishek",
+            "shortname" : "Abhi",
+            "summary" : "Intro",
+            "description" : "<p>Always on the top</p>"
+        },
+        { 
+            "title" : "Best Friend",
+            "name" : "Prince",
+            "shortname" : "Pari",
+            "summary" : "Intro",
+            "description" : "<p>Kind of LifeLine </p>"
+        },
+        { 
+            "title" : "College Friend",
+            "name" : "Ankit",
+            "shortname" : "Anku",
+            "summary" : "Intro",
+            "description" : "<p>Always Legitimate with work</p>"
+        }
+    ]
+}
